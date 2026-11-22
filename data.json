@@ -1,0 +1,35 @@
+{
+  "genres": [
+    "Aksi",
+    "Animasi",
+    "Biografi",
+    "Dokumenter",
+    "Drama",
+    "Fantasi",
+    "Horor",
+    "Komedi",
+    "Kriminal",
+    "Misteri",
+    "Musikal",
+    "Perang",
+    "Petualangan",
+    "Romantis",
+    "Sci-Fi",
+    "Thriller",
+    "Western"
+  ],
+  "films": [
+    {
+      "id": "fmws5pf02oq3",
+      "link": "https://x.com/Kocak_nesia/status/2124306876749746324?a=Y-BwsgpIRkPPKfTPcvw&s=19",
+      "name": "Pulung Gantung",
+      "year": 2025,
+      "genres": [
+        "Perang",
+        "Horor"
+      ],
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQ3sBWRrmHXXfcPHUB3dGuTlpxe9c8ZfXlkcBMAoEZA&s=10",
+      "added": 1795371281715
+    }
+  ]
+}
