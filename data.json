@@ -21,18 +21,6 @@
     "Sejarah",
     "21+"
   ],
-  "types": [
-    "film",
-    "series"
-  ],
-  "countries": [
-    "Amerika Serikat",
-    "Indonesia",
-    "Inggris",
-    "Irak",
-    "Malaysia",
-    "Prancis"
-  ],
   "films": [
     {
       "id": "fmws36g8b4ww",
@@ -82,7 +70,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMjUzMjI4ZjctZjJiNC00ODc4LTgzNWQtZjk5NjJkODQ1NTc0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Sekelompok siswa berkemah dengan riang, tetapi suasana berubah mencekam saat mereka satu per satu dirasuki kekuatan jahat.",
-      "rating": 6.0,
+      "rating": 6,
       "votes": 518,
       "popular": false,
       "recommended": false,
@@ -394,18 +382,19 @@
       "link": "https://x.com/Kocak_nesia/status/2114942479091085451",
       "name": "Badut Gendong",
       "type": "film",
-      "year": null,
+      "year": 2026,
       "country": "",
       "genres": [
         "Horor"
       ],
-      "poster": "",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXB3lAhXNKsdUOJJKYeVAk23FreF_MFh3lzfixjcjXersZt0xfFztQ6sBD&s=10",
       "synopsis": "",
       "rating": 0,
       "votes": 0,
       "popular": false,
       "recommended": false,
-      "added": 1795406672804
+      "added": 1795406672804,
+      "episodes": []
     },
     {
       "id": "fmwsqryxxhft",
@@ -515,7 +504,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMjk1ZWVkZWMtZjQ5Yy00NmE1LTgxZmQtMzE3ZDRhMzQwNDIzXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Eksplorasi mendalam tentang maskulinitas dan hasrat di sebuah komunitas nelayan yang terpencil dan memesona.",
-      "rating": 7.0,
+      "rating": 7,
       "votes": 1589,
       "popular": true,
       "recommended": true,
@@ -570,7 +559,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYjAzMjBjYTQtYTkzNi00NWUyLTg1NDMtZTliOTMwZWY0Zjg5XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Fathia dinikahkan paksa dengan Satya, tetapi diam-diam merindukan Raehan, pria biasa yang membawa cinta dalam hidupnya.",
-      "rating": 8.0,
+      "rating": 8,
       "votes": 71,
       "popular": false,
       "recommended": true,
@@ -588,7 +577,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMDgyNTM2OGUtNThmYi00OTk2LWJiM2QtYWUzYmE3OWFkMDllXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Maya baru bekerja di panti jompo. Bau tak sedap dan suara aneh tiap malam membuatnya diteror sosok hantu perempuan.",
-      "rating": 7.0,
+      "rating": 7,
       "votes": 55,
       "popular": false,
       "recommended": true,
@@ -647,7 +636,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZjU1NWE0ZDMtOWQ2MS00ZjRlLWJiYzgtMmIwZDUxMGNhZGE0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Restiana berjuang membesarkan tiga anaknya setelah suaminya meninggal, tetapi di masa tuanya ia dititipkan di panti jompo oleh anak bungsunya.",
-      "rating": 7.0,
+      "rating": 7,
       "votes": 114,
       "popular": false,
       "recommended": true,
@@ -1323,7 +1312,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Rumah tangga bahagia Nisa dan Aris goyah ketika adik Nisa tinggal bersama mereka.",
-      "rating": 7.0,
+      "rating": 7,
       "votes": 1601,
       "popular": true,
       "recommended": true,
