@@ -20,7 +20,8 @@
     "Keluarga",
     "Sejarah",
     "Olahraga",
-    "21+"
+    "21+",
+    "Extraordinary"
   ],
   "films": [
     {
@@ -2548,6 +2549,23 @@
       "popular": false,
       "recommended": true,
       "added": 1795406758831
+    },
+    {
+      "id": "fmwtean4tsx1",
+      "link": "https://x.com/Rameshkumarva17/status/2124875805763514468?a=6JATeiy4BEF6bfQlhM0&s=19",
+      "name": "Maki Hojo",
+      "year": 2024,
+      "genres": [
+        "Extraordinary"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "type": "film",
+      "country": "Jepang",
+      "popular": false,
+      "recommended": false,
+      "episodes": [],
+      "added": 1795446175155
     }
   ]
 }
