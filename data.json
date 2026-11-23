@@ -1537,24 +1537,6 @@
       "added": 1795406704831
     },
     {
-      "id": "fmfw3e5rxhy2",
-      "link": "https://x.com/tokofilm303/status/2115212801283342452",
-      "name": "Cerita Lila",
-      "type": "film",
-      "year": 2026,
-      "country": "Indonesia",
-      "genres": [
-        "Horor"
-      ],
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTdiNjQyOTQtN2Y5ZC00Nzk0LWEwYWYtYmIzMTQwZTNlYTZlXkEyXkFqcGc@._V1_.jpg",
-      "synopsis": "Nia pindah ke rumah baru bersama ibunya dan berteman dengan Lila, arwah yang mencari saudari kembarnya. Rahasia kelam masa lalu pun terungkap.",
-      "rating": 5.6,
-      "votes": 234,
-      "popular": false,
-      "recommended": false,
-      "added": 1795406705831
-    },
-    {
       "id": "fmg08ga32i3o",
       "link": "https://x.com/tokofilm303/status/2113143995274760492",
       "name": "Rego Nyowo",
@@ -1587,7 +1569,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNmY0YTk4OWItZjVmNS00NzM3LWI1OTMtODMxZDY1MTYwNjI1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Adolf Hitler terbangun di abad ke-21 dan cepat jadi sorotan media, sementara Jerman menganggapnya lucu dan menawan.",
-      "rating": 7.0,
+      "rating": 7,
       "votes": 54857,
       "popular": true,
       "recommended": true,
@@ -1856,7 +1838,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYTI4NjRiZTYtMmQwZi00OTVkLWE0MmEtOGJhMGEyYzEzNzVhXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Hatta, mantan juara silat, dihantui rasa bersalah setelah tak sengaja menewaskan lawannya dalam pertandingan.",
-      "rating": 6.0,
+      "rating": 6,
       "votes": 306,
       "popular": false,
       "recommended": false,
@@ -2050,7 +2032,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMzU3NmE2YzMtY2EwNi00Y2JlLTkwM2EtYWEzMjNhYzA2OTM1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Lanjutan petualangan menelusuri sejarah perkembangan Islam di bagian lain benua Eropa.",
-      "rating": 6.0,
+      "rating": 6,
       "votes": 149,
       "popular": false,
       "recommended": false,
@@ -2185,7 +2167,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYzNkYWE2NDYtNDNkNi00ZWRhLTlhZmQtNGU1MWNmZDg3NTZkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Empat mahasiswa film dipaksa membuat film horor sebagai tugas akhir, lalu kejadian mistis mulai menghantui.",
-      "rating": 5.0,
+      "rating": 5,
       "votes": 54,
       "popular": false,
       "recommended": false,
@@ -2204,7 +2186,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BM2U0OGE3YzgtM2Q0ZS00YmM3LWI0NGQtYmUzMTNjYWZmODI2XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah kakak-kakaknya meninggal, seorang arsitek muda mendadak menjadi 'orang tua tunggal' bagi para keponakannya.",
-      "rating": 8.0,
+      "rating": 8,
       "votes": 2810,
       "popular": true,
       "recommended": true,
@@ -2480,7 +2462,7 @@
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZGQwNDdhODAtY2Y0Ni00YzFhLTk1OGUtY2RkMDAzNzBmZjAxXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah nyaris tewas di Dhaka, Tyler Rake kembali dan timnya siap menjalani misi berikutnya.",
-      "rating": 7.0,
+      "rating": 7,
       "votes": 178117,
       "popular": true,
       "recommended": true,
@@ -2586,23 +2568,5 @@
       "recommended": true,
       "added": 1795406758831
     }
-  ],
-  "countries": [
-    "Amerika Serikat",
-    "Belgia",
-    "Filipina",
-    "Finlandia",
-    "Hong Kong",
-    "India",
-    "Indonesia",
-    "Inggris",
-    "Irak",
-    "Jepang",
-    "Jerman",
-    "Kanada",
-    "Korea Selatan",
-    "Malaysia",
-    "Prancis",
-    "Thailand"
   ]
 }
