@@ -34,36 +34,590 @@
     },
     {
       "id": "fmws6p7l42px",
-      "link": "https://x.com/Kocak_nesia/status/2124306876749746324?a=Y-BwsgpIRkPPKfTPcvw&s=19",
-      "name": "Pulung Gantung",
-      "year": 2028,
-      "genres": [
-        "Horor"
-      ],
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQ3sBWRrmHXXfcPHUB3dGuTlpxe9c8ZfXlkcBMAoEZA&s=10",
-      "added": 1795372951720
-    },
-    {
-      "id": "fmws748au7iu",
-      "link": "https://x.com/kocak_nesia/status/2122619544921612679?a=ntfekUeWHHc27JQrxLw&s=46",
-      "name": "Kemah Terlarang",
-      "year": 2026,
-      "genres": [
-        "Horor"
-      ],
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQgZ5tgy4MpLVV4wh0xgtd7nu3JLIo1cjz4aGQBT3FNN0_3myQ0ykofI&s=10er&utm_content=thumbnail",
-      "added": 1795373652486
-    },
-    {
-      "id": "fmws78tn9xhq",
-      "link": "https://x.com/kocak_nesia/status/2115987056833024181/video/1?a=mJHROhYORrZK47YxXpQ&s=46",
-      "name": "Rumah Teteh",
+      "link": "https://x.com/Kocak_nesia/status/2124306876749746324",
+      "name": "Pulung Gantung: Pati Ngendat",
       "year": 2025,
       "genres": [
         "Horor"
       ],
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDIwN2M5NjQtYmU5MS00MjBhLWE2YTctOGY4NTQxMGEyOTM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "added": 1795373866773
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmYwMWRjMGYtM2M2Yy00YjQ2LWI4YmMtOTI0N2I5NGYyNjE5XkEyXkFqcGc@._V1_.jpg",
+      "added": 1795372951720,
+      "synopsis": "Ryan pulang ke kampung halamannya di Gunungkidul, Yogyakarta, setelah kabar duka kematian ayahnya. Ia ditemani beberapa teman, tetapi perjalanan itu tidak berjalan sesuai rencana."
+    },
+    {
+      "id": "fmws748au7iu",
+      "link": "https://x.com/Kocak_nesia/status/2122619544921612679",
+      "name": "Kemah Terlarang: Kesurupan Massal",
+      "year": 2024,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjUzMjI4ZjctZjJiNC00ODc4LTgzNWQtZjk5NjJkODQ1NTc0XkEyXkFqcGc@._V1_.jpg",
+      "added": 1795373652486,
+      "synopsis": "Sekelompok siswa berkemah dengan riang, tetapi suasana berubah mencekam saat mereka satu per satu dirasuki kekuatan jahat."
+    },
+    {
+      "id": "fmws78tn9xhq",
+      "link": "https://x.com/Kocak_nesia/status/2115987056833024181",
+      "name": "Rumah Teteh: Story of Helena",
+      "year": 2025,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDIwN2M5NjQtYmU5MS00MjBhLWE2YTctOGY4NTQxMGEyOTM3XkEyXkFqcGc@._V1_.jpg",
+      "added": 1795373866773,
+      "synopsis": "Kejadian ganjil datang beruntun hingga mempertemukan kita dengan Teteh di rumahnya, melalui lebih dari dua tahun hari-hari yang mencekam."
+    },
+    {
+      "id": "fmwsqryxf2oj",
+      "link": "https://x.com/Kocak_nesia/status/2123944485906153484",
+      "name": "Perewangan",
+      "year": 2024,
+      "genres": [
+        "Horor",
+        "Misteri",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzA2Njk1YTgtZGFlYS00ZWMxLTkwYmEtODU1YTQyYWNmMzc5XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Maya diteror berbagai kejadian ganjil. Teror itu bermula setelah ayahnya meninggal dan ibunya jatuh sakit.",
+      "added": 1795406672787
+    },
+    {
+      "id": "fmwsqryxgs2y",
+      "link": "https://x.com/Kocak_nesia/status/2123582099781243184",
+      "name": "Lizzie Borden: Rumah Kapak",
+      "year": null,
+      "genres": [
+        "Kriminal",
+        "Thriller"
+      ],
+      "poster": "",
+      "synopsis": "Mengangkat kasus pembunuhan kapak Lizzie Borden di Massachusetts pada 1892.",
+      "added": 1795406672788
+    },
+    {
+      "id": "fmwsqryxhb9g",
+      "link": "https://x.com/Kocak_nesia/status/2123266729409433816",
+      "name": "Petak Umpet",
+      "year": null,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672789
+    },
+    {
+      "id": "fmwsqryxjlyn",
+      "link": "https://x.com/Kocak_nesia/status/2122235125744500940",
+      "name": "Rambut Kafan",
+      "year": 2024,
+      "genres": [
+        "Horor",
+        "Drama"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGY2Yjc0ODYtYmRhYi00Y2Q2LTgyY2QtYjAyN2UzZWMzZTk3XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Tari merawat ibunya, Mirna, hampir tiga tahun. Setelah Mirna meninggal dan meninggalkan pesan yang tak terdengar jelas, kejadian misterius mulai menghantui keluarga mereka.",
+      "added": 1795406672791
+    },
+    {
+      "id": "fmwsqryxk4o1",
+      "link": "https://x.com/Kocak_nesia/status/2121267382786379918",
+      "name": "Titik Lenyap",
+      "year": null,
+      "genres": [
+        "Misteri",
+        "Thriller"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672792
+    },
+    {
+      "id": "fmwsqryxl6ld",
+      "link": "https://x.com/Kocak_nesia/status/2120921037152124960",
+      "name": "The Hunt",
+      "year": null,
+      "genres": [
+        "Thriller",
+        "Aksi"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672793
+    },
+    {
+      "id": "fmwsqryxm842",
+      "link": "https://x.com/Kocak_nesia/status/2120481322133340568",
+      "name": "Monster",
+      "year": null,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672794
+    },
+    {
+      "id": "fmwsqryxnse6",
+      "link": "https://x.com/Kocak_nesia/status/2120170057519259784",
+      "name": "Labinak: Mereka Ada di Sini",
+      "year": 2025,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTA3ZTljMDktNTQ2ZC00YWJlLWJiNzktOThkNzE4NjM0MmZkXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Najwa, guru honorer baru di sekolah swasta elite, kian dekat dengan keluarga Bhairawa, pemilik yayasan sekolah itu.",
+      "added": 1795406672795
+    },
+    {
+      "id": "fmwsqryxokmu",
+      "link": "https://x.com/Kocak_nesia/status/2119749005114806544",
+      "name": "Maryam: Janji dan Jiwa yang Terikat",
+      "year": 2025,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTllNDA3YWQtMGNiYi00N2E4LWEzMTgtNjYyMzk0YjQxODE4XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Sejak kecil Maryam hidup dalam teror surat-surat misterius yang selalu kembali meski dibakar atau dibuang.",
+      "added": 1795406672796
+    },
+    {
+      "id": "fmwsqryxp7hh",
+      "link": "https://x.com/Kocak_nesia/status/2119201836246962563",
+      "name": "Paranormal Investigations",
+      "year": null,
+      "genres": [
+        "Horor",
+        "Misteri"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672797
+    },
+    {
+      "id": "fmwsqryxqwuy",
+      "link": "https://x.com/Kocak_nesia/status/2118867811594539200",
+      "name": "Mendarat Darurat",
+      "year": 2022,
+      "genres": [
+        "Komedi",
+        "Romantis"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDgyMzFkZmYtODVkMy00MDgzLWIxZGYtMTA1ZDM0NTE5OWFkXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Glen tak sengaja menipu maut lewat perselingkuhan. Kini masalahnya: bagaimana menjelaskan keberuntungannya kepada Maya, istrinya?",
+      "added": 1795406672798
+    },
+    {
+      "id": "fmwsqryxryjc",
+      "link": "https://x.com/Kocak_nesia/status/2118461488214188272",
+      "name": "The Canvas",
+      "year": null,
+      "genres": [
+        "Misteri",
+        "Thriller"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672799
+    },
+    {
+      "id": "fmwsqryxs8cx",
+      "link": "https://x.com/Kocak_nesia/status/2116711830097633510",
+      "name": "Never After Dark",
+      "year": null,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672800
+    },
+    {
+      "id": "fmwsqryxum4o",
+      "link": "https://x.com/Kocak_nesia/status/2115624661384122722",
+      "name": "Petaka Gunung Gede",
+      "year": 2025,
+      "genres": [
+        "Petualangan",
+        "Horor"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmM2ZDM1ZTEtNjcwNi00Njc5LWIzNDktMTVkNTlkMDViZGI4XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Dua sahabat karib menyimpan rahasia yang berujung petaka dan menghantui pendakian mereka di Gunung Gede.",
+      "added": 1795406672802
+    },
+    {
+      "id": "fmwsqryxv4ib",
+      "link": "https://x.com/Kocak_nesia/status/2115262276420661686",
+      "name": "Kambing Hitam",
+      "year": null,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672803
+    },
+    {
+      "id": "fmwsqryxwye6",
+      "link": "https://x.com/Kocak_nesia/status/2114942479091085451",
+      "name": "Badut Gendong",
+      "year": null,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672804
+    },
+    {
+      "id": "fmwsqryxxhft",
+      "link": "https://x.com/Kocak_nesia/status/2114529949499674793",
+      "name": "Bayang Bayang Anak Jahanam",
+      "year": 2025,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTlkOWYzYzEtY2JkYi00ODc0LWIwYTEtY2MyYmY1MGIyODhmXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Gina dan Gani berubah drastis setelah menyadari anak mereka, Agni, mendapat energi dari sesuatu yang tak dikenal.",
+      "added": 1795406672805
+    },
+    {
+      "id": "fmwsqryxynxs",
+      "link": "https://x.com/Kocak_nesia/status/2114303456999575553",
+      "name": "Ain",
+      "year": 2026,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGQzMGJkNTMtMzc4My00ZTg1LTg1MmQtMTUwODk5NDdjY2JiXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Joy terbiasa menerima ribuan pujian atas kecantikan dan gaya hidupnya, tetapi lambat laun pujian berlebihan itu berubah menjadi malapetaka.",
+      "added": 1795406672806
+    },
+    {
+      "id": "fmwsqryxzd6k",
+      "link": "https://x.com/Kocak_nesia/status/2113645469343830159",
+      "name": "Kuyank",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Horor",
+        "Misteri"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1YWNhNGMtOWEyZi00MTVlLTlhM2EtMmU0ZDcyYzYzMjc0XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Rusmiati, gadis desa sederhana, menikah dengan Badri, lelaki terpandang, padahal ramalan menyebut hubungan mereka membawa sial.",
+      "added": 1795406672807
+    },
+    {
+      "id": "fmwsqryy0xwy",
+      "link": "https://x.com/Kocak_nesia/status/2113256692733636890",
+      "name": "Don't Move",
+      "year": 2026,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NTdjYmYtN2ZiNi00YWUwLWE4MzItMWU3ZTM3NTNiZTY5XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Seekor laba-laba prasejarah meneror sekelompok pendaki yang tersesat di hutan yang salah.",
+      "added": 1795406672808
+    },
+    {
+      "id": "fmwsqryy1f28",
+      "link": "https://x.com/idnpicktures/status/2124619332663845150",
+      "name": "KIFN",
+      "year": 2024,
+      "genres": [
+        "Horor",
+        "Misteri"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2EwZWJlNTAtNTEyNy00MTUxLWI2YmYtMzhkYWNiZTk0NjFmXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Pernikahan Peri yang diatur keluarga bermasalah. Untuk mencari jawaban, ia membuka arsip rekaman keluarga setelah ibunya meninggal.",
+      "added": 1795406672809
+    },
+    {
+      "id": "fmwsqryy2sws",
+      "link": "https://x.com/idnpicktures/status/2124260257329492028",
+      "name": "On the Sea",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Romantis"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjk1ZWVkZWMtZjQ5Yy00NmE1LTgxZmQtMzE3ZDRhMzQwNDIzXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Eksplorasi mendalam tentang maskulinitas dan hasrat di sebuah komunitas nelayan yang terpencil dan memesona.",
+      "added": 1795406672810
+    },
+    {
+      "id": "fmwsqryy3znh",
+      "link": "https://x.com/idnpicktures/status/2123889258578780564",
+      "name": "Children of Heaven",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2MxZDI3OWEtZDNjNC00YTViLTg2M2ItYzA2NzA1MzkxN2I4XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Ali dan Zahra, kakak-beradik miskin, terpaksa bergantian memakai sepasang sepatu ke sekolah setelah Ali menghilangkan sepatu Zahra.",
+      "added": 1795406672811
+    },
+    {
+      "id": "fmwsqryy4ruw",
+      "link": "https://x.com/idnpicktures/status/2123190328631177577",
+      "name": "Panggonan Wingit 2: Miss K",
+      "year": 2024,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTlmOWY0YjgtNzVjYi00MmQwLTgxYjQtZjY4MTE3YmNjODkyXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Apartemen 610 menyimpan rahasia kelam: siapa pun yang masuk akan mati dalam empat hari. Mampukah Alma dan adiknya, Mia, lolos dari kutukan itu?",
+      "added": 1795406672812
+    },
+    {
+      "id": "fmwsqryy57dp",
+      "link": "https://x.com/idnpicktures/status/2120732040543002816",
+      "name": "Perjalanan Pembuktian Cinta",
+      "year": 2024,
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjAzMjBjYTQtYTkzNi00NWUyLTg1NDMtZTliOTMwZWY0Zjg5XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Fathia dinikahkan paksa dengan Satya, tetapi diam-diam merindukan Raehan, pria biasa yang membawa cinta dalam hidupnya.",
+      "added": 1795406672813
+    },
+    {
+      "id": "fmwsqryy6ypq",
+      "link": "https://x.com/idnpicktures/status/2120076637303955854",
+      "name": "Kutuk",
+      "year": 2019,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDgyNTM2OGUtNThmYi00OTk2LWJiM2QtYWUzYmE3OWFkMDllXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Maya baru bekerja di panti jompo. Bau tak sedap dan suara aneh tiap malam membuatnya diteror sosok hantu perempuan.",
+      "added": 1795406672814
+    },
+    {
+      "id": "fmwsqryy71mc",
+      "link": "https://x.com/idnpicktures/status/2118363155235799108",
+      "name": "Petaka Gunung Welirang",
+      "year": 2026,
+      "genres": [
+        "Petualangan",
+        "Horor",
+        "Misteri"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjAyOWFhMGQtMWU5Ny00ZTE3LWI2MGItMmRkOTM3NjFhNzFlXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Lima sahabat mendaki dan berkemah di Gunung Welirang. Liburan itu berubah menjadi pengalaman menakutkan saat mereka tersesat dan bertemu sosok gaib sang Ratu.",
+      "added": 1795406672815
+    },
+    {
+      "id": "fmwsqryy868n",
+      "link": "https://x.com/idnpicktures/status/2117049444713783333",
+      "name": "Benedetta",
+      "year": 2021,
+      "genres": [
+        "Biografi",
+        "Drama",
+        "Romantis",
+        "21+"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTE2NzQ3MzgtMmYyZS00ZTgxLTgwMWMtMWYyOTIxMDIxYWE3XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Seorang biarawati abad ke-17 di Italia dihantui penglihatan religius sekaligus erotis, dan hubungannya dengan seorang rekan tumbuh menjadi kisah cinta terlarang.",
+      "added": 1795406672816
+    },
+    {
+      "id": "fmwsqryy9dh6",
+      "link": "https://x.com/idnpicktures/status/2115959174819659881",
+      "name": "Jangan Buang Ibu",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjU1NWE0ZDMtOWQ2MS00ZjRlLWJiYzgtMmIwZDUxMGNhZGE0XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Restiana berjuang membesarkan tiga anaknya setelah suaminya meninggal, tetapi di masa tuanya ia dititipkan di panti jompo oleh anak bungsunya.",
+      "added": 1795406672817
+    },
+    {
+      "id": "fmwsqryyafpa",
+      "link": "https://x.com/idnpicktures/status/2115226353037668800",
+      "name": "Pamali: Tumbal",
+      "year": 2025,
+      "genres": [
+        "Horor",
+        "Misteri"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTgyZjE2YzItMTBiNC00YTYyLTliNzEtYWExZmY0NDA4MjhiXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Putri Dewi Kuncoro harus berpacu dengan waktu menyelamatkan orang tuanya dari ancaman ilmu hitam yang menuntut tumbal.",
+      "added": 1795406672818
+    },
+    {
+      "id": "fmwsqryybf8h",
+      "link": "https://x.com/idnpicktures/status/2112439768286118173",
+      "name": "A Normal Woman",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjM4YzBjZmEtNTJlZC00OTUyLWE2NDItZmVkNTcwZWVmNzc3XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Merasa mengidap penyakit misterius, seorang sosialita mulai menghancurkan hidupnya sendiri di tengah penolakan tubuh dan keluarganya.",
+      "added": 1795406672819
+    },
+    {
+      "id": "fmwsqryyc18w",
+      "link": "https://x.com/idnpicktures/status/2111484696626667745",
+      "name": "The Womb",
+      "year": 2022,
+      "genres": [
+        "Drama",
+        "Horor",
+        "Misteri"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmViY2E5ZmUtZDllMi00YTYxLThiMDgtZGU0ZjAxM2VmYWZhXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Bergulat dengan kehamilan tak direncanakan, seorang perempuan meminta bantuan pasangan lansia misterius yang berjanji merawat bayinya.",
+      "added": 1795406672820
+    },
+    {
+      "id": "fmwsqryydt8v",
+      "link": "https://x.com/idnpicktures/status/2111449578998505742",
+      "name": "La Tahzan",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Romantis"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGY3MTA3ZTctNWI1OS00MzYxLTg0OWUtM2M0YTQ4N2M0MmMzXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Alina punya keluarga yang harmonis, tetapi kedatangan pengasuh baru menjadi ancaman tak terduga. Ia harus memilih antara melepaskan atau berjuang menjaga keutuhan keluarganya.",
+      "added": 1795406672821
+    },
+    {
+      "id": "fmwsqryye8p8",
+      "link": "https://x.com/idnpicktures/status/2110393749004226899",
+      "name": "Senin Harga Naik",
+      "year": 2026,
+      "genres": [
+        "Komedi",
+        "Drama"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672822
+    },
+    {
+      "id": "fmwsqryyfl5e",
+      "link": "https://x.com/idnpicktures/status/2110036143026885088",
+      "name": "Kuyang: Sekutu Iblis yang Selalu Mengintai",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWI1MzVmNDUtMDA5Yy00NDcwLWFlM2MtNjgyMmZmMDIzYzJiXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Bimo, calon PNS, ditugaskan ke desa terpencil di Kalimantan bersama istrinya, Sriatun, yang sedang hamil. Kejadian aneh mulai muncul sejak kedatangan mereka.",
+      "added": 1795406672823
+    },
+    {
+      "id": "fmwsqryygv4b",
+      "link": "https://x.com/idnpicktures/status/2109448961916653951",
+      "name": "Ipar Itu Benalu",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672824
+    },
+    {
+      "id": "fmwsqryyh25m",
+      "link": "https://x.com/idnpicktures/status/2109416455145935078",
+      "name": "Monster Pabrik Rambut",
+      "year": 2026,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672825
+    },
+    {
+      "id": "fmwsqryyifcz",
+      "link": "https://x.com/idnpicktures/status/2108715733236756539",
+      "name": "Project Baby",
+      "year": null,
+      "genres": [],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672826
+    },
+    {
+      "id": "fmwsqryyj813",
+      "link": "https://x.com/idnpicktures/status/2107577125486428376",
+      "name": "Perang Kota",
+      "year": 2025,
+      "genres": [
+        "Aksi",
+        "Drama",
+        "Perang"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjJlN2U2ZWQtNGJkOC00YWYxLTlkZmMtMjg4NDhkOGVlNjhjXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Seorang mantan pejuang sekaligus pemain biola berusia 35 tahun menyusun rencana meledakkan bioskop tempat berkumpul pejabat NICA Inggris dan Belanda.",
+      "added": 1795406672827
+    },
+    {
+      "id": "fmwsqryykmzc",
+      "link": "https://x.com/idnpicktures/status/2106631590055178407",
+      "name": "Balas Balik",
+      "year": 2025,
+      "genres": [
+        "Aksi",
+        "Kriminal",
+        "Misteri"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGVlZjYzNGItMWI2OS00NTQzLTk2YzktOThhNWIxMzA5ZGI0XkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Seorang detektif menyelidiki kematian misterius seorang CEO yang diduga karena sakit jantung, hingga rahasia kelam dan dendam terbongkar.",
+      "added": 1795406672828
+    },
+    {
+      "id": "fmwsqryyldbe",
+      "link": "https://x.com/idnpicktures/status/2105921877877432739",
+      "name": "Mumu",
+      "year": 2025,
+      "genres": [
+        "Horor"
+      ],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672829
+    },
+    {
+      "id": "fmwsqryymt0f",
+      "link": "https://x.com/idnpicktures/status/2105532734752145750",
+      "name": "The Nice Ones",
+      "year": 2026,
+      "genres": [],
+      "poster": "",
+      "synopsis": "",
+      "added": 1795406672830
+    },
+    {
+      "id": "fmwsqryyn7vt",
+      "link": "https://x.com/idnpicktures/status/2104826051587395763",
+      "name": "Iblis dalam Kandungan 2: Deception",
+      "year": 2025,
+      "genres": [
+        "Horor",
+        "Thriller"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDA4NmJjNDUtNzdlNS00N2E5LTg0YTgtMzMzNjNjNjhjM2QyXkEyXkFqcGc@._V1_.jpg",
+      "synopsis": "Setelah ditinggal suaminya, Amelia pulang ke rumah lamanya bersama dua anak angkatnya, Alani dan Vito.",
+      "added": 1795406672831
     }
   ]
 }
