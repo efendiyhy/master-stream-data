@@ -2508,9 +2508,10 @@
       "synopsis": "Setelah nyaris tewas di Dhaka, Tyler Rake kembali dan timnya siap menjalani misi berikutnya.",
       "rating": 7,
       "votes": 178117,
-      "popular": true,
-      "recommended": true,
-      "added": 1795406753831
+      "popular": false,
+      "recommended": false,
+      "added": 1795406753831,
+      "episodes": []
     },
     {
       "id": "fmxlysnvxm3k",
