@@ -20,6 +20,7 @@
     "Keluarga",
     "Sejarah",
     "Olahraga",
+    "HD",
     "21+",
     "Extraordinary"
   ],
@@ -33,7 +34,8 @@
       "country": "",
       "genres": [
         "Komedi",
-        "Perang"
+        "Perang",
+        "HD"
       ],
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9MWsyAGIv8JhQAImwVvdHGxvWWMYvLoERhtAP-Uu7Kg&s=10",
       "rating": 0,
@@ -50,7 +52,8 @@
       "year": 2025,
       "country": "Indonesia",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNmYwMWRjMGYtM2M2Yy00YjQ2LWI4YmMtOTI0N2I5NGYyNjE5XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Ryan pulang ke kampung halamannya di Gunungkidul, Yogyakarta, setelah kabar duka kematian ayahnya. Ia ditemani beberapa teman, tetapi perjalanan itu tidak berjalan sesuai rencana.",
@@ -86,7 +89,8 @@
       "year": 2025,
       "country": "Indonesia",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZDIwN2M5NjQtYmU5MS00MjBhLWE2YTctOGY4NTQxMGEyOTM3XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Kejadian ganjil datang beruntun hingga mempertemukan kita dengan Teteh di rumahnya, melalui lebih dari dua tahun hari-hari yang mencekam.",
@@ -125,7 +129,8 @@
       "country": "",
       "genres": [
         "Kriminal",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "",
       "synopsis": "Mengangkat kasus pembunuhan kapak Lizzie Borden di Massachusetts pada 1892.",
@@ -162,7 +167,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNGY2Yjc0ODYtYmRhYi00Y2Q2LTgyY2QtYjAyN2UzZWMzZTk3XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Tari merawat ibunya, Mirna, hampir tiga tahun. Setelah Mirna meninggal dan meninggalkan pesan yang tak terdengar jelas, kejadian misterius mulai menghantui keluarga mereka.",
@@ -181,7 +187,8 @@
       "country": "",
       "genres": [
         "Misteri",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -200,7 +207,8 @@
       "country": "",
       "genres": [
         "Thriller",
-        "Aksi"
+        "Aksi",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -219,7 +227,8 @@
       "country": "",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -238,7 +247,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYTA3ZTljMDktNTQ2ZC00YWJlLWJiNzktOThkNzE4NjM0MmZkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Najwa, guru honorer baru di sekolah swasta elite, kian dekat dengan keluarga Bhairawa, pemilik yayasan sekolah itu.",
@@ -294,7 +304,8 @@
       "country": "Indonesia",
       "genres": [
         "Komedi",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNDgyMzFkZmYtODVkMy00MDgzLWIxZGYtMTA1ZDM0NTE5OWFkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Glen tak sengaja menipu maut lewat perselingkuhan. Kini masalahnya: bagaimana menjelaskan keberuntungannya kepada Maya, istrinya?",
@@ -331,7 +342,8 @@
       "year": null,
       "country": "",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -350,7 +362,8 @@
       "country": "Indonesia",
       "genres": [
         "Petualangan",
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNmM2ZDM1ZTEtNjcwNi00Njc5LWIzNDktMTVkNTlkMDViZGI4XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Dua sahabat karib menyimpan rahasia yang berujung petaka dan menghantui pendakian mereka di Gunung Gede.",
@@ -387,7 +400,8 @@
       "year": 2026,
       "country": "",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXB3lAhXNKsdUOJJKYeVAk23FreF_MFh3lzfixjcjXersZt0xfFztQ6sBD&s=10",
       "synopsis": "",
@@ -483,7 +497,8 @@
       "country": "Irak",
       "genres": [
         "Horor",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BY2EwZWJlNTAtNTEyNy00MTUxLWI2YmYtMzhkYWNiZTk0NjFmXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Pernikahan Peri yang diatur keluarga bermasalah. Untuk mencari jawaban, ia membuka arsip rekaman keluarga setelah ibunya meninggal.",
@@ -502,7 +517,8 @@
       "country": "Inggris",
       "genres": [
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMjk1ZWVkZWMtZjQ5Yy00NmE1LTgxZmQtMzE3ZDRhMzQwNDIzXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Eksplorasi mendalam tentang maskulinitas dan hasrat di sebuah komunitas nelayan yang terpencil dan memesona.",
@@ -539,7 +555,8 @@
       "year": 2024,
       "country": "Indonesia",
       "genres": [
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYjAzMjBjYTQtYTkzNi00NWUyLTg1NDMtZTliOTMwZWY0Zjg5XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Fathia dinikahkan paksa dengan Satya, tetapi diam-diam merindukan Raehan, pria biasa yang membawa cinta dalam hidupnya.",
@@ -577,7 +594,8 @@
       "genres": [
         "Petualangan",
         "Horor",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNjAyOWFhMGQtMWU5Ny00ZTE3LWI2MGItMmRkOTM3NjFhNzFlXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Lima sahabat mendaki dan berkemah di Gunung Welirang. Liburan itu berubah menjadi pengalaman menakutkan saat mereka tersesat dan bertemu sosok gaib sang Ratu.",
@@ -598,7 +616,8 @@
         "Biografi",
         "Drama",
         "Romantis",
-        "21+"
+        "21+",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMTE2NzQ3MzgtMmYyZS00ZTgxLTgwMWMtMWYyOTIxMDIxYWE3XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang biarawati abad ke-17 di Italia dihantui penglihatan religius sekaligus erotis, dan hubungannya dengan seorang rekan tumbuh menjadi kisah cinta terlarang.",
@@ -635,7 +654,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOTgyZjE2YzItMTBiNC00YTYyLTliNzEtYWExZmY0NDA4MjhiXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Putri Dewi Kuncoro harus berpacu dengan waktu menyelamatkan orang tuanya dari ancaman ilmu hitam yang menuntut tumbal.",
@@ -655,7 +675,8 @@
       "genres": [
         "Drama",
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMjM4YzBjZmEtNTJlZC00OTUyLWE2NDItZmVkNTcwZWVmNzc3XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Merasa mengidap penyakit misterius, seorang sosialita mulai menghancurkan hidupnya sendiri di tengah penolakan tubuh dan keluarganya.",
@@ -675,7 +696,8 @@
       "genres": [
         "Drama",
         "Horor",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNmViY2E5ZmUtZDllMi00YTYxLThiMDgtZGU0ZjAxM2VmYWZhXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Bergulat dengan kehamilan tak direncanakan, seorang perempuan meminta bantuan pasangan lansia misterius yang berjanji merawat bayinya.",
@@ -694,7 +716,8 @@
       "country": "Indonesia",
       "genres": [
         "Komedi",
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MmRmZjAtZGQwZS00YzM2LTljNGMtODNhYjkwMWQyNjQwXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah bertengkar dengan ibunya, Retno, Mutia pergi untuk membuktikan kemandiriannya. Tiga tahun kemudian kariernya terancam proyek yang menyasar toko roti ibunya.",
@@ -714,7 +737,8 @@
       "genres": [
         "Drama",
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYWI1MzVmNDUtMDA5Yy00NDcwLWFlM2MtNjgyMmZmMDIzYzJiXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Bimo, calon PNS, ditugaskan ke desa terpencil di Kalimantan bersama istrinya, Sriatun, yang sedang hamil. Kejadian aneh mulai muncul sejak kedatangan mereka.",
@@ -732,7 +756,8 @@
       "year": 2026,
       "country": "",
       "genres": [
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -750,7 +775,8 @@
       "year": 2026,
       "country": "",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -767,7 +793,9 @@
       "type": "film",
       "year": null,
       "country": "",
-      "genres": [],
+      "genres": [
+        "HD"
+      ],
       "poster": "",
       "synopsis": "",
       "rating": 0,
@@ -786,7 +814,8 @@
       "genres": [
         "Aksi",
         "Drama",
-        "Perang"
+        "Perang",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNjJlN2U2ZWQtNGJkOC00YWYxLTlkZmMtMjg4NDhkOGVlNjhjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang mantan pejuang sekaligus pemain biola berusia 35 tahun menyusun rencana meledakkan bioskop tempat berkumpul pejabat NICA Inggris dan Belanda.",
@@ -806,7 +835,8 @@
       "genres": [
         "Aksi",
         "Kriminal",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMGVlZjYzNGItMWI2OS00NTQzLTk2YzktOThhNWIxMzA5ZGI0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang detektif menyelidiki kematian misterius seorang CEO yang diduga karena sakit jantung, hingga rahasia kelam dan dendam terbongkar.",
@@ -824,7 +854,8 @@
       "year": 2025,
       "country": "",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -841,7 +872,9 @@
       "type": "film",
       "year": 2026,
       "country": "",
-      "genres": [],
+      "genres": [
+        "HD"
+      ],
       "poster": "",
       "synopsis": "",
       "rating": 0,
@@ -859,7 +892,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMDA4NmJjNDUtNzdlNS00N2E5LTg0YTgtMzMzNjNjNjhjM2QyXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah ditinggal suaminya, Amelia pulang ke rumah lamanya bersama dua anak angkatnya, Alani dan Vito.",
@@ -939,7 +973,8 @@
       "year": 2026,
       "country": "Indonesia",
       "genres": [
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BN2ZmZDI0YzMtMzU5My00NWQxLWIwNDctNmU4ZmFhNWU1ZDNjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Sarah menjalani fase sulit dengan luka masa lalu yang belum sembuh, namun tetap tegar menemukan makna kemandirian dan kedamaian.",
@@ -1021,7 +1056,8 @@
       "country": "Indonesia",
       "genres": [
         "Komedi",
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BM2IwNjcyZjEtNWYzZi00YjY2LWI5YjgtNDhjNjkwYmM3MDdkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Tawa mencurahkan isi hatinya di panggung tentang ayahnya yang pergi meninggalkan mereka. Sedih, tapi tertawakan saja dulu.",
@@ -1041,7 +1077,8 @@
       "genres": [
         "Komedi",
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMzI1MDU5M2UtNGYwZi00Y2MzLTkyOTctNzVmZTI4MjNhNWFkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Bagus, seorang penulis skenario, bertemu kembali dengan Hana, teman SMA yang masih berduka, dan ingin membuatnya jatuh cinta lagi.",
@@ -1060,7 +1097,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNDQ5YWJiOWEtMjBlNS00YWVlLThhZmMtNTA2MTJhOGNlZmY0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah bercerai, Kinan membangun hidup sebagai ibu tunggal dan dokter. Konflik kembali memanas saat Aris datang bersama Lidya.",
@@ -1099,7 +1137,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Sejarah"
+        "Sejarah",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYWY3MzM3Y2YtZTI3YS00MzI5LWIyZTItNjA5MDVlM2VjYmE1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Nana lolos dari pembersihan anti-komunis dan hidup nyaman sebagai istri kedua pria Sunda kaya, tetapi masa lalunya terus muncul dalam mimpi.",
@@ -1136,7 +1175,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMTNmMmRmZGItYjQwMi00OGM3LWEyNDEtYTE2MjhiYWM4NDhkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Romeo dan Agatha, dua orang yang selalu dipertemukan sekaligus dipisahkan oleh takdir.",
@@ -1157,7 +1197,8 @@
         "Kriminal",
         "Horor",
         "Misteri",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZGE1NTA0NzAtNjJlOC00ZjMxLWJlOTItZjk5MDA5ZmRkNTBjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Pica dan Arum menjalani praktik kerja lapangan di klinik gigi sebuah rumah sakit kecil di Jawa Tengah, dan teror mulai mengintai.",
@@ -1177,7 +1218,8 @@
       "genres": [
         "Komedi",
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMWE3ZTUwMDgtZDlhMy00OWFkLWJhNmQtMDUyYWQ4OTU5MWM1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Kisah cinta Agus dan Kalis selama masa pacaran yang penuh liku dan kejutan.",
@@ -1196,7 +1238,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMzQ3YzEyMjAtZDNhNC00MjQ1LTgxOWItNTNkMGMwZjA4NDBhXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Pasangan Maya dan Andi mulai diganggu keanehan misterius yang bertubi-tubi dalam rumah tangga mereka.",
@@ -1234,7 +1277,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYjdlMTNjZTYtOWJhMi00YWE5LWJhOGItYTllYjU0NWJmOTE0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Sumala, nama yang ditakuti warga sebuah desa di Semarang. Tak ada yang berani keluar rumah saat malam karena Sumala datang membunuh.",
@@ -1254,7 +1298,8 @@
       "genres": [
         "Drama",
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMDRjYjE3NWItOWVmMy00MGQ4LThmYmQtOGVkM2NkYjcwZmI2XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Melor terpaksa mewarisi warisan keluarganya dan harus berpacu dengan waktu menyelamatkan putrinya dari entitas gelap.",
@@ -1273,7 +1318,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNDRjYTA2MzgtYWI3My00YmFjLTk1MjgtYTkwZDkyMzg1OWVjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Rumah tangga bahagia Nisa dan Aris goyah ketika adik Nisa tinggal bersama mereka.",
@@ -1313,7 +1359,8 @@
       "country": "Indonesia",
       "genres": [
         "Komedi",
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZDIxY2MzYWQtZmJiOS00N2FhLWFmZGUtZDFhZGViYTNhZGExXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Pernikahan Minar dan Sahat tertekan oleh mertua yang menuntut cucu laki-laki, sementara Minar mendambakan kemandirian.",
@@ -1372,7 +1419,8 @@
       "genres": [
         "Drama",
         "Keluarga",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNzI2NWQyYTctMDNhOC00OTBkLTk4MTktMTAzNGNkZDM0MjI1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Elias mulai menyukai tetangga barunya, Alexander, dan menyadari ia sedang jatuh cinta untuk pertama kalinya.",
@@ -1392,7 +1440,8 @@
       "genres": [
         "Drama",
         "Romantis",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Di Korea tahun 1930-an, seorang gadis dipekerjakan sebagai pelayan bagi pewaris Jepang, padahal ia pencopet dengan rencana rahasia.",
@@ -1411,7 +1460,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Sejarah"
+        "Sejarah",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmM3ZmYtZWZkZi00M2NhLTliZTktODg5ZWYwY2M1NGQ2XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Mahasiswa Biru Laut dan kawan-kawannya bergabung dalam kelompok diskusi bawah tanah demi kebebasan berpendapat, lalu menghadapi represi dan penghilangan paksa.",
@@ -1431,7 +1481,8 @@
       "genres": [
         "Biografi",
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOWZlN2NiMWItZmYxOS00NTA5LWJiMzMtOTM0OTIyN2QwNGRmXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Ode, pemuda Buton, jatuh cinta pada Ade, perantau asal Bali. Kisah mereka indah, namun perbedaan mulai menguji.",
@@ -1471,7 +1522,8 @@
       "genres": [
         "Komedi",
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Penari striptis muda dari Brooklyn menikahi putra oligarki Rusia secara impulsif, lalu dongeng itu terancam saat orang tuanya datang ke New York.",
@@ -1609,7 +1661,8 @@
       "genres": [
         "Komedi",
         "Drama",
-        "Keluarga"
+        "Keluarga",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BY2NjNGUyZjUtMDFiOC00MTA0LTk3YzUtZmVjZGNjZWRkOTdjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Dunia Na Willa dilihat lewat mata anak-anak yang penuh rasa ingin tahu, saat ia dan teman-temannya menjelajahi Gang Krembangan.",
@@ -1629,7 +1682,8 @@
       "genres": [
         "Drama",
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYmMwYjRhMzQtNTgzZC00ZjQ2LWIzYTUtNDg4Njg0YTdjNjc1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Dua puluh satu orang hilang satu per satu dalam sebuah proyek konstruksi, konon dijadikan tumbal agar proyek lancar.",
@@ -1647,7 +1701,8 @@
       "year": 2026,
       "country": "Indonesia",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "",
       "synopsis": "Erin adalah gadis yang selalu ceria, sampai rahasia di ruang tersembunyi milik ibunya mulai terungkap.",
@@ -1665,7 +1720,8 @@
       "year": 2026,
       "country": "Indonesia",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "",
       "synopsis": "Sejak kecil Ningrum harus menghadapi pandangan negatif orang sekitar, hingga teror gaib datang menghantuinya.",
@@ -1684,7 +1740,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BODMzODIwMjktZjgyMi00ZTY4LThmOTgtZWI3ZmFjMDgzZTIxXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Putri hidup dalam bayang-bayang ibunya, Sari, peramal tarot ternama. Sejak kematian tragis sang ibu, Putri terus dihantui.",
@@ -1703,7 +1760,8 @@
       "country": "Malaysia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOGVhNzIzMzAtMmEwOS00YTFlLTgwYjQtMmExZWQ4YzU2NTc4XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Dua petugas pembersih lokasi kematian menemukan tiga jasad membusuk di sebuah rumah dan mengalami kejadian supranatural.",
@@ -1721,7 +1779,8 @@
       "year": 2024,
       "country": "Indonesia",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMWI5MzJiOTMtM2NjMC00ZjhiLWIzODYtMDhjZjBmZTBjZDczXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Erwina, anak bungsu, bekerja di pabrik tertua di daerahnya yang menjadi tumpuan banyak keluarga.",
@@ -1740,7 +1799,8 @@
       "country": "Filipina",
       "genres": [
         "Drama",
-        "21+"
+        "21+",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYmRmNDNhYzAtMWZkMS00MzRiLWIxZTQtOTMzMTgxZDdlODc0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang perempuan muda masuk ke hubungan rumit dengan pria berkuasa, saat gairah berubah menjadi manipulasi.",
@@ -1778,7 +1838,8 @@
       "country": "Thailand",
       "genres": [
         "Drama",
-        "21+"
+        "21+",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOGQwMjVkZGEtNmJiNS00NTFlLWI5ZTktMGNkZjZhYjlkMDlkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Jan Dara kembali ke Bangkok untuk membalas dendam, namun api dendam itu perlahan mengubahnya menjadi sosok yang ia benci.",
@@ -1798,7 +1859,8 @@
       "genres": [
         "Aksi",
         "Kriminal",
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYTI4NjRiZTYtMmQwZi00OTVkLWE0MmEtOGJhMGEyYzEzNzVhXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Hatta, mantan juara silat, dihantui rasa bersalah setelah tak sengaja menewaskan lawannya dalam pertandingan.",
@@ -1819,7 +1881,8 @@
         "Komedi",
         "Keluarga",
         "Fantasi",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOGVlNTc2OTQtYmJiNC00MzJlLWIwZWYtNjllMDcyOTM2ZjBmXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Bea, hantu remaja, menjalin persahabatan istimewa dengan Cole, anak baru yang menempati rumah yang ia huni lebih dari 100 tahun.",
@@ -1839,7 +1902,8 @@
       "genres": [
         "Aksi",
         "Thriller",
-        "Perang"
+        "Perang",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BM2ZiNDZiZDQtMjYyOC00MWY1LTkyZjgtNDM1MmMwZTdhOWFkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang pria membongkar rumah keluarganya yang dibantai perang untuk dibangun ulang di tempat lain, lalu diburu komandan Tentara Merah.",
@@ -1860,7 +1924,8 @@
         "Komedi",
         "Horor",
         "Misteri",
-        "Sci-Fi"
+        "Sci-Fi",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BM2IwZDI2ZDQtMTU5MC00MDY2LWEwOGYtNGU0ZjNkMzkwMmEyXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Saat pembunuh 'Sweet Sixteen' kembali setelah 35 tahun, Jamie tak sengaja terlempar ke tahun 1987 untuk menghentikannya.",
@@ -1881,7 +1946,8 @@
         "Drama",
         "Sejarah",
         "Romantis",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYTQ4NjhmYzgtYWMzYS00YWM0LTg3MTgtNWU1ZTE0NWM2Njg5XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Kisah cinta sepasang kekasih berlatar peristiwa Banyuwangi 1965.",
@@ -1936,7 +2002,8 @@
       "year": 2024,
       "country": "Indonesia",
       "genres": [
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNWRkNTdlNGItODNhYi00Y2I2LTk2M2YtMzdhY2Q4ZmU4NjIxXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Dalam budaya Jawa, Sengkolo adalah entitas pembawa sial. Pada malam satu Suro, ia berpindah menyasar korban baru.",
@@ -1954,7 +2021,8 @@
       "year": 2025,
       "country": "Indonesia",
       "genres": [
-        "Komedi"
+        "Komedi",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZGUwMjE0OWMtZDVlYi00NDUxLThmZDQtNmMwMTQ1NTBkNDQwXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Gilang, aktor pendukung yang bertahun-tahun belum pernah jadi pemeran utama.",
@@ -1973,7 +2041,8 @@
       "country": "Thailand",
       "genres": [
         "Drama",
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BOGE0ZDczNjktYzk5NS00NmUyLTllYmUtZjA5NDc1ZTA3ZDNlXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Ha Gom, hantu jahat dari cerita rakyat Thailand timur laut, menghantui dunia dan memangsa kelemahan manusia.",
@@ -1992,7 +2061,8 @@
       "country": "Indonesia",
       "genres": [
         "Petualangan",
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMzU3NmE2YzMtY2EwNi00Y2JlLTkwM2EtYWEzMjNhYzA2OTM1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Lanjutan petualangan menelusuri sejarah perkembangan Islam di bagian lain benua Eropa.",
@@ -2010,7 +2080,8 @@
       "year": 2008,
       "country": "Indonesia",
       "genres": [
-        "Drama"
+        "Drama",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZTk3MDE2MzktNWQzMi00NjEwLWIwNmMtYzIyMzQxN2NkYzBjXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang pria mengancam Tuhan: jika permintaannya tak terkabul dalam tiga hari, ia akan beralih ke setan.",
@@ -2089,7 +2160,8 @@
         "Aksi",
         "Komedi",
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Di penjara terkenal, kekuatan tak terlihat membunuhi napi dengan brutal, memaksa geng musuh dan sipir korup bekerja sama.",
@@ -2127,7 +2199,8 @@
       "country": "Indonesia",
       "genres": [
         "Komedi",
-        "Horor"
+        "Horor",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYzNkYWE2NDYtNDNkNi00ZWRhLTlhZmQtNGU1MWNmZDg3NTZkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Empat mahasiswa film dipaksa membuat film horor sebagai tugas akhir, lalu kejadian mistis mulai menghantui.",
@@ -2146,7 +2219,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Keluarga"
+        "Keluarga",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BM2U0OGE3YzgtM2Q0ZS00YmM3LWI0NGQtYmUzMTNjYWZmODI2XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah kakak-kakaknya meninggal, seorang arsitek muda mendadak menjadi 'orang tua tunggal' bagi para keponakannya.",
@@ -2165,7 +2239,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNWQzMjU1ODgtMTgzNC00NjYxLTkwZWMtOWU5YzMxMzNkYjc1XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Pasar Setan lekat dengan kisah orang hilang dan pengalaman horor bagi siapa pun yang datang atau melintas di sekitarnya.",
@@ -2205,7 +2280,8 @@
       "country": "Korea Selatan",
       "genres": [
         "Drama",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Keserakahan dan kesenjangan kelas mengancam hubungan simbiosis antara keluarga kaya Park dan keluarga miskin Kim.",
@@ -2243,7 +2319,8 @@
       "genres": [
         "Biografi",
         "Drama",
-        "Sejarah"
+        "Sejarah",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMTIyZDlhYzYtYzkwNS00YWM4LTg2MjEtNzk4ZmZjZDljZGRkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Perjalanan hidup Soekarno, presiden pertama RI, dari masa kecil hingga memproklamasikan kemerdekaan bersama M. Hatta.",
@@ -2262,7 +2339,8 @@
       "country": "Indonesia",
       "genres": [
         "Drama",
-        "Romantis"
+        "Romantis",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNzI1YTRhNWYtNzg2ZS00ZGEwLWI5NDAtN2ZkZTg0NDEzOGNkXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Seorang arsitek yang sudah menikah terpaksa menikahi perempuan depresi demi menyelamatkan nyawanya, memicu berbagai konflik rumah tangga.",
@@ -2384,7 +2462,8 @@
       "genres": [
         "Drama",
         "Horor",
-        "Misteri"
+        "Misteri",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BZWQ5ZTcwNDEtYTQ1MS00MTlmLTlhYTUtNWU1YWFkMDMwMjAzXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah meninggal karena penyakit aneh selama tiga tahun, seorang ibu kembali ke rumah untuk menjemput anak-anaknya.",
@@ -2402,7 +2481,8 @@
       "year": 2026,
       "country": "India",
       "genres": [
-        "Aksi"
+        "Aksi",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkFqcGc@._V1_.jpg",
       "synopsis": "Pembunuhan perempuan hamil dalam dugaan ritual ilmu hitam membuat seorang polisi membuka kembali kasus lama.",
@@ -2462,7 +2542,8 @@
       "country": "Indonesia",
       "genres": [
         "Horor",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BNjQ4MGIwZTAtN2Q3OS00YjI3LTlkZTMtNjIxYWZiN2ZkYmEwXkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Ranti, ibu dan istri setia, punya putri tercinta bernama Nina yang cacat sejak lahir, sampai kecelakaan fatal mengubah segalanya.",
@@ -2503,7 +2584,8 @@
       "genres": [
         "Horor",
         "Misteri",
-        "Thriller"
+        "Thriller",
+        "HD"
       ],
       "poster": "https://m.media-amazon.com/images/M/MV5BYTg2ZDA2ODktODU0ZC00YzBkLThjM2YtMDhiYzEwY2VlOWQ3XkEyXkFqcGc@._V1_.jpg",
       "synopsis": "Setelah lama berpisah dari teman-teman hantunya, Risa menjalani hidup tenang, sampai ketenangan itu mulai terganggu.",
@@ -2555,7 +2637,8 @@
       "name": "Suzume",
       "year": 2025,
       "genres": [
-        "Extraordinary"
+        "Extraordinary",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -2572,7 +2655,8 @@
       "name": "Misuke",
       "year": 2026,
       "genres": [
-        "Extraordinary"
+        "Extraordinary",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
@@ -2606,7 +2690,8 @@
       "name": "Onty",
       "year": null,
       "genres": [
-        "Extraordinary"
+        "Extraordinary",
+        "HD"
       ],
       "poster": "",
       "synopsis": "",
